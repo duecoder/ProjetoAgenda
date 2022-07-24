@@ -1,5 +1,5 @@
 # ProjetoAgenda
-CRUD Completo - Projeto Agenda
+CRUD - Projeto Agenda
 
 In this project, I learned how to create a simple CRUD website.
 
